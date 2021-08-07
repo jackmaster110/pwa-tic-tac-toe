@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1628318099608,
+  "index": "/pwa-tic-tac-toe/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/pwa-tic-tac-toe/favicon.ico",
+        "/pwa-tic-tac-toe/index.html",
+        "/pwa-tic-tac-toe/main.999e620ce01ace4e716f.js",
+        "/pwa-tic-tac-toe/manifest.webmanifest",
+        "/pwa-tic-tac-toe/polyfills.402d45523bdbd68c1a38.js",
+        "/pwa-tic-tac-toe/runtime.51e97ecf6e766b0dfd47.js",
+        "/pwa-tic-tac-toe/styles.fdb56d8f63edd86b36f5.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/pwa-tic-tac-toe/assets/icons/icon-128x128.png",
+        "/pwa-tic-tac-toe/assets/icons/icon-144x144.png",
+        "/pwa-tic-tac-toe/assets/icons/icon-152x152.png",
+        "/pwa-tic-tac-toe/assets/icons/icon-192x192.png",
+        "/pwa-tic-tac-toe/assets/icons/icon-384x384.png",
+        "/pwa-tic-tac-toe/assets/icons/icon-512x512.png",
+        "/pwa-tic-tac-toe/assets/icons/icon-72x72.png",
+        "/pwa-tic-tac-toe/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/pwa-tic-tac-toe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/pwa-tic-tac-toe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/pwa-tic-tac-toe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/pwa-tic-tac-toe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/pwa-tic-tac-toe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/pwa-tic-tac-toe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/pwa-tic-tac-toe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/pwa-tic-tac-toe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/pwa-tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/pwa-tic-tac-toe/index.html": "be8e4ddabd44acb1f366880dc25490f29786bcf2",
+    "/pwa-tic-tac-toe/main.999e620ce01ace4e716f.js": "bcbf5c05c0a38c9da1bdab5aa885b9331371e2e9",
+    "/pwa-tic-tac-toe/manifest.webmanifest": "cb8017b95e4012a9cb5cd640d4572f225908c547",
+    "/pwa-tic-tac-toe/polyfills.402d45523bdbd68c1a38.js": "fb897ae91c2639bea4b57693a3ecf628f883a6ed",
+    "/pwa-tic-tac-toe/runtime.51e97ecf6e766b0dfd47.js": "a22d29071423ff6967a6c13c545129f4874a707e",
+    "/pwa-tic-tac-toe/styles.fdb56d8f63edd86b36f5.css": "883ceac00a5c687a43163f1b320f2f9ec5c84640"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
